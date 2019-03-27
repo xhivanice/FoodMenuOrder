@@ -1,0 +1,27 @@
+[
+  {
+    "FoodNo": "1",
+    "FoodName": "麻婆豆腐",
+    "FoodPrice": "12",
+    "FoodIntroduction": "豆腐切丁后最好不要用开水烫，只用淡盐水浸泡即可，那样做出的豆腐会整而滑嫩，否则，用开水煮过，会韧劲过大口感不好。"
+  },
+  {
+    "FoodNo": "2",
+    "FoodName": "水煮牛肉",
+    "FoodPrice": "38",
+    "FoodIntroduction": "特色传统名菜，属川菜系。主料瘦黄牛肉。辅料豆芽、鸭血、肉汤、莴笋或者其他蔬菜、粉丝。"
+  },
+  {
+    "FoodNo": "3",
+    "FoodName": "鱼香茄子",
+    "FoodPrice": "20",
+    "FoodIntroduction": "鱼香茄子真好吃"
+  },
+  {
+    "FoodNo": "4",
+    "FoodName": "宫保鸡丁",
+    "FoodPrice": "2",
+    "FoodIntroduction": "每逢礼拜三特价菜"
+  }
+
+]

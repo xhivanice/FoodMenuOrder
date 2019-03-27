@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\bin\Debug\FoodMenuOrder.FrameWork.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\bin\Debug\FoodMenuOrder.FrameWork.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\obj\Debug\FoodMenuOrder.FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\obj\Debug\FoodMenuOrder.FrameWork.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\obj\Debug\FoodMenuOrder.FrameWork.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.FrameWork\obj\Debug\FoodMenuOrder.FrameWork.csprojAssemblyReference.cache

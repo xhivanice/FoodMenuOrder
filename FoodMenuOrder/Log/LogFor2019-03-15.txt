@@ -1,0 +1,6 @@
+2019/3/15 16:09:39:[ShowMenu] write 【编码】：4。[admin]
+2019/3/15 16:09:40:[ShowMenu] write 【菜名】：宫保鸡丁。[admin]
+2019/3/15 16:09:41:[ShowMenu] write 【价格】：2。[admin]
+2019/3/15 16:09:41:[ShowMenu] write 【简介】：每逢礼拜三特价菜。[admin]
+2019/3/15 16:09:43:[宫保鸡丁] write 宫保鸡丁还不错。[admin]
+2019/3/15 16:09:45:[宫保鸡丁] write 评分为3。[admin]

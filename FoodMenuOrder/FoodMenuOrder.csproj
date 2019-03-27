@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{318505E1-F1A9-48A7-AAD8-1C1BB8EA1CBA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FoodMenuOrder</RootNamespace>
+    <AssemblyName>FoodMenuOrder</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ConfigureFile\Eggplant.json" />
+    <None Include="ConfigureFile\FoodMenu.json" />
+    <None Include="ConfigureFile\HotBeef.json" />
+    <None Include="ConfigureFile\KungPaoChicken.json" />
+    <None Include="ConfigureFile\Toufu.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Advanced12第五次homework.txt" />
+    <Content Include="ConfigureFile\Customer.xml" />
+    <Content Include="ConfigureFile\FoodMenu.xml" />
+    <Content Include="ConfigureFile\Student.xml" />
+    <Content Include="ConfigureFile\test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FoodMenuOrder.AbstactFactory\FoodMenuOrder.AbstactFactory.csproj">
+      <Project>{94956542-6aed-4516-b271-a643b77e8f86}</Project>
+      <Name>FoodMenuOrder.AbstactFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.Factory\FoodMenuOrder.Factory.csproj">
+      <Project>{7a274a47-0620-454f-8862-6078c7cf9956}</Project>
+      <Name>FoodMenuOrder.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.FrameWork\FoodMenuOrder.FrameWork.csproj">
+      <Project>{87e18ca8-facd-4c89-886f-797c367e900c}</Project>
+      <Name>FoodMenuOrder.FrameWork</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.Helper\FoodMenuOrder.Helper.csproj">
+      <Project>{c3e2edc0-a263-4af1-be43-d5a1c3ea3dc3}</Project>
+      <Name>FoodMenuOrder.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.Model\FoodMenuOrder.Model.csproj">
+      <Project>{1c24afd7-e5cb-4d39-ad84-38ba1f5c6788}</Project>
+      <Name>FoodMenuOrder.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.Service\FoodMenuOrder.Service.csproj">
+      <Project>{b839ce45-3985-49ea-b923-8021267c03de}</Project>
+      <Name>FoodMenuOrder.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenuOrder.SimpleFactory\FoodMenuOrder.SimpleFactory.csproj">
+      <Project>{f19f9463-e860-40b5-9029-7d7647f23682}</Project>
+      <Name>FoodMenuOrder.SimpleFactory</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions />
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Service.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Service.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.FrameWork.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Helper.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Model.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.FrameWork.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Helper.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\FoodMenuOrder.Model.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\obj\Debug\FoodMenuOrder.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\obj\Debug\FoodMenuOrder.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\obj\Debug\FoodMenuOrder.Service.csproj.CopyComplete
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\obj\Debug\FoodMenuOrder.Service.dll
+C:\Users\Administrator\source\repos\FoodMenuOrder\FoodMenuOrder.Service\obj\Debug\FoodMenuOrder.Service.pdb

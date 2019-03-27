@@ -1,0 +1,5 @@
+2019/3/21 14:42:41:[点餐] write Please input food id  and press enter to continue...。[admin]
+2019/3/21 15:07:17:[点餐] write Please input food id  and press enter to continue...。[admin]
+2019/3/21 15:07:29:[菜品选择：] write 您选择的菜本店没有。[admin]
+2019/3/21 15:07:33:[菜品选择：] write 您选择的菜本店没有。[admin]
+2019/3/21 15:07:35:[正确选择:] write 您当前点了编码1的【麻婆豆腐】，价格12。[root]

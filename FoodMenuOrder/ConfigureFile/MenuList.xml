@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfFoodModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodModel>
+    <FoodNo>1</FoodNo>
+    <FoodName>麻婆豆腐</FoodName>
+    <FoodPrice>12</FoodPrice>
+    <FoodIntroduction>豆腐切丁后最好不要用开水烫，只用淡盐水浸泡即可。</FoodIntroduction>
+  </FoodModel>
+  <FoodModel>
+    <FoodNo>2</FoodNo>
+    <FoodName>水煮牛肉</FoodName>
+    <FoodPrice>38</FoodPrice>
+    <FoodIntroduction>特色传统名菜，属川菜系。主料瘦黄牛肉。辅料豆芽、鸭血</FoodIntroduction>
+  </FoodModel>
+</ArrayOfFoodModel>
